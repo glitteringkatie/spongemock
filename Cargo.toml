@@ -1,0 +1,6 @@
+[package]
+name = "spongemock"
+version = "0.1.0"
+authors = ["Katie Hughes <katelhughes93@gmail.com>"]
+
+[dependencies]
